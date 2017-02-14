@@ -1,0 +1,31 @@
+{
+  "tbl-SX": [
+    {
+      "PutRequest": {
+        "Item": {
+          "PK": {"S": "33cce8f060bb2f705828656f903f05d0"},
+          "COL_A": { "S": "Value for Col_A in record 1"},
+          "COL_B": {"N": "12.99"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "PK": {"S": "0f097d5988bc7b38a14f031ff62837fc"},
+          "COL_A": { "S": "Value for Col_A in record 2"},
+          "COL_B": {"N": "98.92"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "PK": {"S": "3c1a9c4d8cd4f871195317c211f585c6"},
+          "COL_A": { "S": "Value for Col_A in record 3"},
+          "COL_B": {"N": "3453.01"}
+        }
+      }
+    }    
+  ]
+}
