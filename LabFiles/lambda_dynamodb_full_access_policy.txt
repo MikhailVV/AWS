@@ -6,7 +6,7 @@
  "Action": [
  "dynamodb:*"
  ],
- "Resource": "arn:aws:dynamodb:us-west-2:113363365482:table/*"
+ "Resource": "arn:aws:dynamodb:us-west-2:*:table/*"
  }
  ]
 }
